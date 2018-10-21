@@ -55,6 +55,10 @@ p{
     margin-bottom: 0;
 }
 
+.custom-height {
+    max-height: 70px;
+}
+
 
 .modal-overlay {
     background-color: rgba(255, 255, 255, 0.849);

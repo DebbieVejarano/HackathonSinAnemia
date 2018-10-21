@@ -1,3 +1,3 @@
 setTimeout(() => {
-  window.location ='./views/ingreso.html';
+  window.location ='./views/intro.html';
 }, 4000);
