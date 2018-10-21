@@ -1,0 +1,91 @@
+nav{
+    background-color: transparent !important;
+}
+nav .brand-logo,i{
+    display: flex;
+    justify-content: center;
+}
+nav i{
+    color: #ee6e73;
+}
+.empecemos{
+    text-align: center;
+    color: #2c2c2c;
+    font-family: 'Krub', sans-serif;
+    font-size: 16px;
+}
+
+nav img.responsive-img {
+    max-width: 100%;
+    height: 100%;
+}
+
+.games h6  {
+    text-align: center;
+    font-weight: bold;
+} 
+
+.row .col.s6 {
+ 
+    text-align: center
+}
+
+.row img.responsive-img{
+    width: 50%;
+} 
+
+.gamesDisable {
+    pointer-events:none;
+    box-shadow: inset 0px 5px 0px 400px rgba(247, 247, 247, 0.88);
+}
+.disabled{
+    box-shadow: inset 0px 5px 0px 400px rgba(247, 247, 247, 0.88);    
+}
+.gamesDisable p{
+color: #2c2c2c75;
+text-align: center;
+font-size: 18px;
+
+}
+.gamesDisable h6{
+    color: #2c2c2c75;
+    text-align: center;
+font-weight: bold;
+    
+}
+p{
+    padding: 5%  !important;
+    font-size: 18px;
+    margin-bottom: 0;
+}
+
+
+.modal-overlay {
+    background-color: rgba(255, 255, 255, 0.849);
+}   
+
+.z-depth-5, .modal {
+    top: 30% !important;
+    -webkit-box-shadow: 0 0px 0px 0px ;
+    box-shadow: 0 0px 0px 0px;
+    background-color: rgb(253, 253, 48);
+    width: 90%
+}
+
+.modal-footer{
+    background-color: rgb(253, 253, 48) !important;
+}
+
+.modal .modal-content{
+    padding-top: 0;
+    display: flex;
+    justify-content: center
+}
+.modal-content img{
+    width: 45%;
+    height: 40%;
+}
+.modal-content p{
+    padding: 0;
+    margin: 0;
+}

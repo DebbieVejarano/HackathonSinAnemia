@@ -1,0 +1,24 @@
+.is-fullheight {
+    min-height: 100vh;
+}
+
+.custom-red {
+  background-color: #ee6e73;
+}
+
+.custom-red-text {
+  color: #ee6e73;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+  
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+#img-header{
+  width: 40%;
+}
