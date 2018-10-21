@@ -3,12 +3,11 @@ const fillSlide = ({ image, title, text }) => {
     document.getElementById('slide-container').innerHTML = `
      <div class= "container">
      <image class="responsive-img" src="${image}"/></div>
-      <h6>${title}</h6>
-      <p>${text}</p>`
+     <h6 class="center-align bold-text">${title}</h6>
+     <p class="center-align">${text}</p>`
   }
   
   let position = 0
-  
   const slideContent = [
     {
       image: '../img/frame (1).png',
