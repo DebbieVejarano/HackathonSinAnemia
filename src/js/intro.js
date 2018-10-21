@@ -1,5 +1,4 @@
 const fillSlide = ({ image, title, text }) => {
-    console.log(image, title, text)
     document.getElementById('slide-container').innerHTML = `
      <div class= "container">
      <image class="responsive-img" src="${image}"/></div>
