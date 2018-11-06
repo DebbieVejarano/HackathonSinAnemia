@@ -15,4 +15,4 @@ El Ministerio de Inclusión y Desarrollo Social, de la mano de aliados como el I
 
 ## La solución
 
-![aplicación](https://fotos.subefotos.com/c325c4b6a01aaf29f82f4ed633e21d7fo.png)
+![aplicación](https://fotos.subefotos.com/4ac36e30fda95d574f5efd9df5291824o.png)
