@@ -19,5 +19,6 @@ Diseñar una aplicación que permita que las madres aprendan mediante gamificaci
 ![solución](https://fotos.subefotos.com/9ba55385d2ddcd7d31d54471b9f2cb9do.png)
 
 ## La solución
+
 Decidimos implementar una aplicación web que permita que las madres accedas desde la misma plataforma del Midis sin descargar ninguna app. Al mismo tiempo, creamos un personaje que acompañe a las madres en su proceso de aprendizaje sobre cuanto hierro consumir y en qué platos y con qué alimentos.
 ![aplicación](https://fotos.subefotos.com/4ac36e30fda95d574f5efd9df5291824o.png)
