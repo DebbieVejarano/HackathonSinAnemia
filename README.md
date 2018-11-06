@@ -11,12 +11,12 @@ El Ministerio de Inclusión y Desarrollo Social, de la mano de aliados como el I
 ![contexto](https://fotos.subefotos.com/f125f21507691b25380724e763e3c29ao.png)
 
 ## El problema
-Identificamos que las madres de familia conocen superficialmente lo perjudicial que puede llegar a ser la anemia y realizando un user persona y un journey map reconocimos que desde el diagnóstico del niño hasta la próxima consulta la madre tiene dificultades para poder interiorizar las recomendaciones del médico. Al mismo tiempo, llegamos a reconocer que la principal causa de anemia es la ferropénica que se da por no consumir las dosis adecuadas de hierro.
-
+Identificamos que las madres de familia conocen superficialmente lo perjudicial que puede llegar a ser la anemia y realizando un user persona y un journey map reconocimos que desde el diagnóstico del niño hasta la próxima consulta la madre tiene dificultades para poder interiorizar las recomendaciones del médico. Al mismo tiempo, llegamos a reconocer que la principal causa de anemia es la ferropénica que se da por no consumir las dosis adecuadas de hierro, teniendo en cuenta que ya existen aplicaciones de ese tipo que pocos conocen.
+![problema](https://fotos.subefotos.com/4b49d97f8dca6fe1b3f22859dd4caeeao.png)
 
 ## El reto
-Diseñar una aplicación que permita que las madres aprendan mediante gamificación y al mismo tiempo puedan identificar cuanto hierro necesitan consumir sus bebes cada día.
-![rerto](https://fotos.subefotos.com/4b49d97f8dca6fe1b3f22859dd4caeeao.png)
+Diseñar una aplicación que permita que las madres aprendan mediante gamificación y al mismo tiempo puedan identificar cuanto hierro necesitan consumir sus bebes cada día, usando los datos de plataformas y aplicaciones del MINSA e Instituto Nacional de Salud.
+
 
 ## La solución
 ![solución](https://fotos.subefotos.com/9ba55385d2ddcd7d31d54471b9f2cb9do.png)
